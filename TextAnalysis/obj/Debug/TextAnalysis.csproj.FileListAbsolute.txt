@@ -1,0 +1,10 @@
+E:\soft\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.frm_main.resources
+E:\soft\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.Properties.Resources.resources
+E:\soft\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.csproj.GenerateResource.Cache
+E:\soft\TextAnalysis\TextAnalysis\bin\Debug\TextAnalysis.exe
+E:\soft\TextAnalysis\TextAnalysis\bin\Debug\TextAnalysis.pdb
+E:\soft\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.exe
+E:\soft\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.pdb
+E:\soft\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.csprojResolveAssemblyReference.cache
+E:\soft\GithubTextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.exe
+E:\soft\GithubTextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.pdb
